@@ -1,6 +1,6 @@
 <div align="center">
   
-# ☕ Bonjour, I'm Dan-Lyn | Hello, I'm Dan-Lyn
+# ☕ Bonjour, I'm Dan | Hello, I'm Dan
 
 ### Franco-American Developer | Epitech Paris '28
 *Bridging Silicon Valley innovation with Parisian elegance*
